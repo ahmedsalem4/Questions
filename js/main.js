@@ -117,7 +117,7 @@ function getQuestions(){
     }
     //الاول هنا بتقوله هستخدم الميسو اللي اسمه جيت وبعد كده بتقوله المسارة سواء كان على جهازك او 
     //فى رابط اتش تي تي بي وبعد كده بتقوله تروي يعنى انتظر استدعاء الابجيكت وبعد كده كمل 
-    myRequest.open("GET","https://ahmedsalem4.github.io/html_question.json",true);
+    myRequest.open("GET","https://raw.githubusercontent.com/ahmedsalem4/Questions/main/html_question.json",true);
     //بعد كده بتقوله سيند يعنى ابعت الطلب ده للملف اللي موجود على جهازك او للابي اي 
     myRequest.send();
 }
