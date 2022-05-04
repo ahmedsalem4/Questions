@@ -1,0 +1,488 @@
+[
+    {
+        "title":"It's been two months since we ..........our uncle in the village.",
+        "answer_1":"had visited",
+        "answer_2":"visited",
+        "answer_3":"have visited",
+        "answer_4":"visit",
+        "right_answer":"visited"
+    }
+    ,
+    {
+        "title":"My friend ..........a health problem since he lived in that highly polluted area",
+        "answer_1":"has had",
+        "answer_2":"had had",
+        "answer_3":"had",
+        "answer_4":"has been",
+        "right_answer":"has had"
+    }
+    ,
+    {
+        "title":"I .......... dinner when Adel arrived, so I warmly asked him to share the meal with me.",
+        "answer_1":"had",
+        "answer_2":"am having",
+        "answer_3":"was having",
+        "answer_4":"had had",
+        "right_answer":"was having"
+    },
+
+    {
+        "title":" Sorry for being late, Sir. Please, let me in; I .......... in very bad traffic.",
+        "answer_1":"have been",
+        "answer_2":"have gone",
+        "answer_3":"was",
+        "answer_4":"had",
+        "right_answer":"have been"
+    },
+    {
+        "title":" My sister .......... her university degree in 2018",
+        "answer_1":"was getting",
+        "answer_2":"got",
+        "answer_3":"was",
+        "answer_4":"had got",
+        "right_answer":"got"
+    }
+    ,
+    {
+        "title":"There are always economic crises .......... pandemics.",
+        "answer_1":"while",
+        "answer_2":"as",
+        "answer_3":"when",
+        "answer_4":"during",
+        "right_answer":"during"
+    }
+    ,
+    {
+        "title":"How long ago .......... your father come back from London?",
+        "answer_1":"did",
+        "answer_2":"has",
+        "answer_3":"will",
+        "answer_4":"had",
+        "right_answer":"did"
+    }
+    ,
+    {
+        "title":"My cousin has lived abroad .......... his childhood.",
+        "answer_1":"for",
+        "answer_2":"since",
+        "answer_3":"while",
+        "answer_4":"when",
+        "right_answer":"since"
+    } ,
+    {
+        "title":"Ali caught fish when he was in Alexandria. This means that ......... .",
+        "answer_1":"Ali didn’t catch fish since he was in Alexandria.",
+        "answer_2":"Ali didn’t catch fish when he was in Alexandria.",
+        "answer_3":"Ali hasn’t caught fish since he was in Alexandria.",
+        "answer_4":"Ali has been catching fish since he returned from Alexandria.",
+        "right_answer":"Ali hasn’t caught fish since he was in Alexandria."
+    } ,
+    {
+        "title":"will wait till my friend .......... before I order food.",
+        "answer_1":"had arrived",
+        "answer_2":"arrived",
+        "answer_3":"has arrived",
+        "answer_4":"was arriving",
+        "right_answer":"has arrived"
+    } ,
+    {
+        "title":"haven't met the General Manager.................. It's my first time to meet him.",
+        "answer_1":"yet",
+        "answer_2":"before",
+        "answer_3":"already",
+        "answer_4":"never",
+        "right_answer":"before"
+    } ,
+    {
+        "title":"While .......... for the school bus, I met one of my old friends.",
+        "answer_1":"being waited",
+        "answer_2":"am waiting",
+        "answer_3":"was waiting",
+        "answer_4":"waiting",
+        "right_answer":"waiting"
+    } ,
+    {
+        "title":"My uncle ....as a taxi driver for ten years. Now, he is a worker in a big clothes factory",
+        "answer_1":"worked",
+        "answer_2":"was working",
+        "answer_3":"has worked",
+        "answer_4":"works",
+        "right_answer":"worked"
+    } ,
+    {
+        "title":"haven’t seen Wael.......... the last time we met in the village.",
+        "answer_1":"while",
+        "answer_2":"when",
+        "answer_3":"for",
+        "answer_4":"since",
+        "right_answer":"since"
+    } ,
+    {
+        "title":"While Samir was doing his homework, his sister ........... to loud music. So, he wasn'table to concentrate.",
+        "answer_1":"listened",
+        "answer_2":"was listening",
+        "answer_3":"is listening",
+        "answer_4":"had listened",
+        "right_answer":"was listening"
+    } ,
+    {
+        "title":"My pen friend arrived at Cairo Airport a moment ago. This means that he ............ .",
+        "answer_1":"has just arrived",
+        "answer_2":"just has arrived",
+        "answer_3":"hasn't arrived",
+        "answer_4":"will arrive",
+        "right_answer":"has just arrived"
+    } ,
+    {
+        "title":"I used to play football when I was young, but now I ............",
+        "answer_1":"wasn’t",
+        "answer_2":"didn’t",
+        "answer_3":"don’t",
+        "answer_4":"am not",
+        "right_answer":"don’t"
+    } ,
+    {
+        "title":"Which of the following is structurally correct?",
+        "answer_1":"Have you already travelled to Aswan by ship?",
+        "answer_2":"have you ever travelled to Aswan by ship ?",
+        "answer_3":"I haven’t already travelled to Aswan by ship.",
+        "answer_4":"I haven’t travelled to Aswan by ship already.",
+        "right_answer":"have you ever travelled to Aswan by ship ?"
+    } ,
+    {
+        "title":"What.......... at 7 pm yesterday?",
+        "answer_1":"you were doing",
+        "answer_2":"have you done",
+        "answer_3":"were you doing",
+        "answer_4":"will you be doing",
+        "right_answer":"were you doing"
+    } ,
+    {
+        "title":"The government .......... a lot of villages recently.",
+        "answer_1":"has modernised",
+        "answer_2":"had modernised",
+        "answer_3":"was modernising",
+        "answer_4":"was modernised",
+        "right_answer":"has modernised"
+    } ,
+    {
+        "title":"Rami is very happy; he .......... a medal for writing poetry.",
+        "answer_1":"is winning",
+        "answer_2":"won",
+        "answer_3":"has won",
+        "answer_4":"had won",
+        "right_answer":"has won"
+    } ,
+    {
+        "title":"A terrible accident .......... place on the Cairo- Alexandria desert road.",
+        "answer_1":"was taken",
+        "answer_2":"has taken",
+        "answer_3":"has been taken",
+        "answer_4":"had taken",
+        "right_answer":"has taken"
+    } ,
+    {
+        "title":"You needn't make food. I .......... a good meal already.",
+        "answer_1":"was cooking",
+        "answer_2":"have cooked",
+        "answer_3":"was cooked",
+        "answer_4":"had cooked",
+        "right_answer":"have cooked"
+    } ,
+    {
+        "title":"A............ newspaper has small pages and large photos.",
+        "answer_1":"broadcast",
+        "answer_2":"poster",
+        "answer_3":"tabloid",
+        "answer_4":"blog",
+        "right_answer":"tabloid"
+    } ,
+    {
+        "title":"She......... dinner when we returned home.",
+        "answer_1":"doesn’t make",
+        "answer_2":"wasn’t made",
+        "answer_3":"isn’t making",
+        "answer_4":"wasn’t making",
+        "right_answer":"wasn’t making"
+    } ,
+    {
+        "title":"When the accused person proved that he wasn’t ..............., he was set free.",
+        "answer_1":"guilty",
+        "answer_2":"tasty",
+        "answer_3":"innocent",
+        "answer_4":"relevant",
+        "right_answer":"guilty"
+    } ,
+    {
+        "title":"What bad news! The book had been ............ before it was published.",
+        "answer_1":"leaked",
+        "answer_2":"locked",
+        "answer_3":"disappeared",
+        "answer_4":"written",
+        "right_answer":"leaked"
+    } ,
+    {
+        "title":"It is ............ that some people were typing up copies of the book to share it illegally.",
+        "answer_1":"comfortable",
+        "answer_2":"appeared",
+        "answer_3":"climbed",
+        "answer_4":"claimed",
+        "right_answer":"claimed"
+    } ,
+    {
+        "title":"A ............ newspaper is a more formal newspaper with large pages.",
+        "answer_1":"tabloid",
+        "answer_2":"poster",
+        "answer_3":"blog",
+        "answer_4":"broadsheet",
+        "right_answer":"broadsheet"
+    } ,
+    {
+        "title":"Online book ............... is an illegal action.",
+        "answer_1":"proficiency",
+        "answer_2":"piracy",
+        "answer_3":"accuracy",
+        "answer_4":"security",
+        "right_answer":"piracy"
+    } ,
+    {
+        "title":"It is not easy for young writers to............... their new books.",
+        "answer_1":"write",
+        "answer_2":"appear",
+        "answer_3":"come out",
+        "answer_4":"publish",
+        "right_answer":"publish"
+    } ,
+    {
+        "title":"The accident ............ despite the carefulness of the driver because there was asudden leak in the brake oil.",
+        "answer_1":"claimed",
+        "answer_2":"caused",
+        "answer_3":"occurred",
+        "answer_4":"excused",
+        "right_answer":"occurred"
+    } ,
+    {
+        "title":"I applied for the new job and I am waiting for the answer to my application with bated breath. This means that I ..................",
+        "answer_1":"no longer expect that I will get the new job.",
+        "answer_2":"am waiting hopelessly to get promoted.",
+        "answer_3":"am in a nervous and excited state anticipating what will happen.",
+        "answer_4":"am sure I will get the new job.",
+        "right_answer":"am in a nervous and excited state anticipating what will happen."
+    } ,
+    {
+        "title":"The factory had collapsed, so the lawyers......... that the insurance company pay thelegal compensation.",
+        "answer_1":"protested",
+        "answer_2":"demanded",
+        "answer_3":"rejected",
+        "answer_4":"disappeared",
+        "right_answer":"demanded"
+    } ,
+    {
+        "title":"............... is one of the behaviours that you must stop practising.",
+        "answer_1":"Charity",
+        "answer_2":"Checking",
+        "answer_3":"Cheating",
+        "answer_4":"Chatting",
+        "right_answer":"Cheating"
+    } ,
+    {
+        "title":"I was ............... to hear that my car had been stolen.",
+        "answer_1":"cheered",
+        "answer_2":"checked",
+        "answer_3":"chocked",
+        "answer_4":"shocked",
+        "right_answer":"shocked"
+    } ,
+    {
+        "title":"The convict behaved in a dishonest way. Behave is similar in meaning to ..........",
+        "answer_1":"act",
+        "answer_2":"refuse",
+        "answer_3":"agree",
+        "answer_4":"think",
+        "right_answer":"act"
+    } ,
+    {
+        "title":"A successful journalist must be nosy and interested in people. This means that he/she has to be ......... .",
+        "answer_1":"not curious and ambitious",
+        "answer_2":"curious and inquisitive",
+        "answer_3":"cheerful and forgiving",
+        "answer_4":"unenthusiastically waiting for good news",
+        "right_answer":"curious and inquisitive"
+    } ,
+    {
+        "title":"The giant ship had broken down and ..... navigation in the Suez Canal for seven days.",
+        "answer_1":"allowed",
+        "answer_2":"blocked",
+        "answer_3":"refused",
+        "answer_4":"eased",
+        "right_answer":"blocked"
+    } ,
+    {
+        "title":"The captain said that a strong wind ........ the ship so that both its front and back hit the sides of the canal.",
+        "answer_1":"stopped",
+        "answer_2":"robbed",
+        "answer_3":"begun",
+        "answer_4":"spun",
+        "right_answer":"spun"
+    } ,
+    {
+        "title":"The Prime Minister ....... that there was a severe penalty against those who build illegally.",
+        "answer_1":"announced",
+        "answer_2":"advertised",
+        "answer_3":"refused",
+        "answer_4":"decreased",
+        "right_answer":"announced"
+    } ,
+    {
+        "title":"The police officers are .......... the cause of the crime to arrest the criminal.",
+        "answer_1":"announcing",
+        "answer_2":"hiding",
+        "answer_3":"refusing",
+        "answer_4":"investigating",
+        "right_answer":"investigating"
+    } ,
+    {
+        "title":"Unfortunately, the collapse of the house has caused tens of ..........and a lot of injuries.",
+        "answer_1":"facilities",
+        "answer_2":"abilities",
+        "answer_3":"casualties",
+        "answer_4":"impurities",
+        "right_answer":"casualties"
+    } ,
+    {
+        "title":"After the accident, the injured people were .......... financially.",
+        "answer_1":"fined",
+        "answer_2":"freed",
+        "answer_3":"regulated",
+        "answer_4":"compensated",
+        "right_answer":"compensated"
+    } ,
+    {
+        "title":"Finally, the police discovered what had .......... the accident.",
+        "answer_1":"caused",
+        "answer_2":"reasoned",
+        "answer_3":"excused",
+        "answer_4":"rescued",
+        "right_answer":"caused"
+    } ,
+    {
+        "title":"The journalist was biased by ..........; he put the story at the top of the page to show it was interesting.",
+        "answer_1":"repetition",
+        "answer_2":"omission",
+        "answer_3":"placement",
+        "answer_4":"spin",
+        "right_answer":"placement"
+    } ,
+    {
+        "title":"The police were able to rescue the people who were.......... inside the house during the fire.",
+        "answer_1":"typed",
+        "answer_2":"tripped",
+        "answer_3":"wrapped",
+        "answer_4":"trapped",
+        "right_answer":"trapped"
+    } ,
+    {
+        "title":".......... is a type of media bias in which a journalist uses words and phrases to support or oppose a service, or even an idea.",
+        "answer_1":"Placement",
+        "answer_2":"Spin",
+        "answer_3":"Omission",
+        "answer_4":"Commission",
+        "right_answer":"Spin"
+    } ,
+    {
+        "title":"When I saw a huge animal in the dark, I jumped out of my skin. The means I was .........",
+        "answer_1":"amazed",
+        "answer_2":"bold",
+        "answer_3":"terrified",
+        "answer_4":"brave",
+        "right_answer":"terrified"
+    } ,
+    {
+        "title":"A/An .......... is a person who makes and repairs things made of iron by hand.",
+        "answer_1":"blacksmith",
+        "answer_2":"carpenter",
+        "answer_3":"mechanic",
+        "answer_4":"electrician",
+        "right_answer":"blacksmith"
+    } ,
+    {
+        "title":"The police are looking for the criminal who has ........... that horrible crime.",
+        "answer_1":"made",
+        "answer_2":"committed",
+        "answer_3":"competed",
+        "answer_4":"corrected",
+        "right_answer":"committed"
+    } ,
+    {
+        "title":"Once I got my breath back, I hurried home as fast as I could. I got my breath back means I ...........",
+        "answer_1":"found difficulty in breathing easily.",
+        "answer_2":"shouted madly for help.",
+        "answer_3":"faced the situation bravely.",
+        "answer_4":"started breathing normally again.",
+        "right_answer":"started breathing normally again."
+    } ,
+    {
+        "title":"53 The robber grabbed the lady’s handbag and ........... quickly so he could escape.",
+        "answer_1":"coped up",
+        "answer_2":"sat down",
+        "answer_3":"set off",
+        "answer_4":"broke into",
+        "right_answer":"set off"
+    } ,
+    {
+        "title":"Which of the following is punctuated correctly?",
+        "answer_1":"Did you know that I’d been working from home for two months, Hatim",
+        "answer_2":"Did you know that I’d been working from home for two months Hatim?",
+        "answer_3":"Did you know that I d been working from home for two months, Hatim?",
+        "answer_4":"Did you know that I’d been working from home for two months, Hatim?",
+        "right_answer":"Did you know that I’d been working from home for two months, Hatim?"
+    } ,
+    {
+        "title":"A/an ............. essay is a form of academic writing which is built around a detailed description of a person, building, place, situation, etc.",
+        "answer_1":"narrative",
+        "answer_2":"descriptive",
+        "answer_3":"argumentative",
+        "answer_4":"formal",
+        "right_answer":"descriptive"
+    } ,
+    {
+        "title":"A terrible accident happened in Banha, ............ . Which of the following completions shows result?",
+        "answer_1":"due to the rash driver.",
+        "answer_2":"although the driver was careful.",
+        "answer_3":"so some people were sent to hospital.",
+        "answer_4":"but no one died.",
+        "right_answer":"so some people were sent to hospital."
+    } ,
+    {
+        "title":"It takes roughly two hours to get to the company. Roughly here mean..........",
+        "answer_1":"seriously",
+        "answer_2":"hardly",
+        "answer_3":"harshly",
+        "answer_4":"approximately",
+        "right_answer":"approximately"
+    } ,
+    {
+        "title":"An argumentative essay ................",
+        "answer_1":"a recounts an incident that either you or others have experienced.",
+        "answer_2":"requires you to investigate an idea, evaluate evidence and set forth an argument concerning that idea.",
+        "answer_3":"tells readers a story, often about an experience that resulted in a powerful life change",
+        "answer_4":"is a form of academic writing that is built around a detailed description of a person, building, place, situation, notion, etc.",
+        "right_answer":"requires you to investigate an idea, evaluate evidence and set forth an argument concerning that idea."
+    } ,
+    {
+        "title":"We can read thousands of newspapers and magazines from around the globe online. Subscribers get access to more than 7,000 of the world's top publications as soon as they're available for free or according to the rules.",
+        "answer_1":"يمكننا قراءة الاف الصحف والمجلات من جميع انحاء العالم عبر الانترنت , ويمكن للمشتركين الوصول الى اكثر من 7000 من افضل المنشورات فى العالم بمجرد توفرها مجانا او وفقا للقواعد",
+        "answer_2":"يمكننا قراءة الاف الصحف والمجلات من جميع انحاء العالم عبر الانترنت , ويمكن للناشرين الوصول الى اكثر من 7000 من افضل المنشورات فى العالم بمجرد توفرها مجانا او وفقا للقواعد,",
+        "answer_3":"يمكننا قراءة الاف الصحف والمجلات من جميع انحاء العالم عبر الانترنت , ويمكن للمشاركين الوصول الى اكثر من 7000 من افضل المنشورات فى العالم بمجرد توفرها مجانا او وفقا للقواعد,",
+        "answer_4":"يمكننا قراءة الاف الصحف والمجلات من جميع انحاء العالم عبر الانترنت , ويمكن للمستوردين الوصول الى اكثر من 7000 من افضل المنشورات فى العالم بمجرد توفرها مجانا او وفقا للقواعد,",
+        "right_answer":"يمكننا قراءة الاف الصحف والمجلات من جميع انحاء العالم عبر الانترنت , ويمكن للمشتركين الوصول الى اكثر من 7000 من افضل المنشورات فى العالم بمجرد توفرها مجانا او وفقا للقواعد"
+    } ,
+    {
+        "title":"لقد يسرت التجارة الالكترونية على كثير من الناس عملية البيع والشراء  الكترونيا,وهذا بدوره يوفر الوقت والجهد فضلا عن خلق مناخا تنافسيا يصب فى صالح المستهلك اولا",
+        "answer_1":"E-commerce has made it easier for many people to buy and trade electronically. This, in turn, saves time and effort in addition to creating a competitive climate that benefits the producer first.",
+        "answer_2":"E-learning has made it easier for many people to buy and sell electronically. This, in turn, saves time and effort in addition to creating a complete climate that benefits the consumer first.",
+        "answer_3":"E-commerce has made it easier for many people to buy and sell electronically. This, in turn, saves time and effort in addition to creating a competitive environment that benefits the consumer first.",
+        "answer_4":"E-commerce has made it easier for many people to buy and sell electrically. This, in turn, saves time and effort in addition to creating a competitive environment that fits the consumer first.",
+        "right_answer":"E-commerce has made it easier for many people to buy and sell electronically. This, in turn, saves time and effort in addition to creating a competitive environment that benefits the consumer first."
+    }
+]
